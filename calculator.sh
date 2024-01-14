@@ -17,3 +17,10 @@ echo a
 b=$((5-3))
 
 echo b
+
+# Division Function 
+
+c=$((4/2))
+
+echo c
+
