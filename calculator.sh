@@ -25,6 +25,11 @@ c=$((4/2))
 
 echo c
 
+
 # Percentage 
 # time 23:35i
 # 
+# Multiplication 
+#
+
+ (Multiplication Function is added)
