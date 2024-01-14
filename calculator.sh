@@ -11,3 +11,9 @@
 a=$((5+5))
 
 echo a
+
+# Subtraction function 
+
+b=$((5-3))
+
+echo b
